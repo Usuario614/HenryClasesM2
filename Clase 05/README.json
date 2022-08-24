@@ -1,0 +1,12 @@
+{
+  "lessonTitle": "Sexta clase",
+  "feedbackID": "06-lesson6",
+  "permalink": "/Tema_Seis/",
+  "quizzID" : "6057d0a5656c8d23c2e60e3e",
+  "homeworkUrl": "https://github.com/soyHenry/Prep-Course/tree/main/05-JS-IV/homework",
+  "eleventyNavigation": {
+    "key": "Tema 6",
+    "order": 6
+  }
+}
+
